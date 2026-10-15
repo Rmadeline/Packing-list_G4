@@ -1,4 +1,3 @@
-package codigoGrupo;
 
 public class Vendedor {
     // Atributos
